@@ -17,8 +17,4 @@ In your index.html file, structure the website using HTML elements. Create secti
 . CSS Styling:
 In your styles.css file, apply styles to different HTML elements to achieve the desired look for your food website. Use CSS properties like font-family, color, background, padding, and margin to style the layout and appearance.
 
-5. Adding Content:
-Populate your website with content. Add images of various food items to the images directory. Use HTML tags like <img>, <h1>, <p>, and lists (<ul>, <li>) to display food information.
 
-6. Responsive Design:
-Use media queries in your CSS to ensure that your food website looks good on different screen sizes, from desktop to mobile.
